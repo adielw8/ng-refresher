@@ -12,7 +12,7 @@ import { Subscription } from 'rxjs';
 export class PersonsComponent implements OnInit, OnDestroy {
 
 
-  personList: string[];//type
+  personList: string[];//TypeScrypt
   private personListSubs: Subscription;
   //private personService: PersonsService;
 
